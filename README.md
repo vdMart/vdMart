@@ -1,9 +1,9 @@
 <br>
 
-### <picture><img src="src/about_me.gif" width = 50px></picture><b>About me</b>
-<img src="src/line.gif">
+### <picture><img src="https://github.com/vdMart/vdMart/blob/main/src/about_me.gif" width = 50px></picture><b>About me</b>
+<img src="https://github.com/vdMart/vdMart/blob/main/src/line.gif">
 
-<picture> <img align="right" src="src/profile.png" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/vdMart/vdMart/blob/main/src/profile.png" width = 250px></picture>
 <br>
 
 - 💻 Developer specialized in mobile, web, and multiplatform applications   
@@ -13,7 +13,7 @@
 - 🔍 Continuously learning and exploring new tools, frameworks, and best practices
 - 🚀 Open to exciting opportunities in innovative and technology-driven teams
 
-<img src="src/line.gif">
+<img src="https://github.com/vdMart/vdMart/blob/main/src/line.gif">
 
 
 <br><br>
@@ -40,7 +40,7 @@
 
 <br><br>
 
-## <img src="src/skills_technologies.webp" width ="25"><b> Skills & Technologies</b>
+## <img src="https://github.com/vdMart/vdMart/blob/main/src/skills_technologies.webp" width ="25"><b> Skills & Technologies</b>
 
 - 👨‍💻 **Programming Languages:**
 
@@ -100,10 +100,10 @@
 
 <br><br>
 
-## <img src="src/stats.webp" width="35"><b>Github Stats</b>
+## <img src="https://github.com/vdMart/vdMart/blob/main/src/stats.webp" width="35"><b>Github Stats</b>
 
 <p align = "center">
-	<img src="src/snake.svg" alt = "Snake Game"/>
+	<img src="https://github.com/vdMart/vdMart/blob/main/src/snake.svg" alt = "Snake Game"/>
 </p>
 <p align="center"><i>🐍 A Snake Eating my Contributions Graph</i></p>
 
