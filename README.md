@@ -1,7 +1,7 @@
 <br>
 
-### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture><b>About me</b>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### <picture><img src="src/about_me.gif" width = 50px></picture><b>About me</b>
+<img src="src/line.gif">
 
 <picture> <img align="right" src="src/profile.png" width = 250px></picture>
 <br>
@@ -13,7 +13,7 @@
 - 🔍 Continuously learning and exploring new tools, frameworks, and best practices
 - 🚀 Open to exciting opportunities in innovative and technology-driven teams
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="src/line.gif">
 
 
 <br><br>
@@ -40,7 +40,7 @@
 
 <br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills & Technologies</b>
+## <img src="src/skills_technologies.webp" width ="25"><b> Skills & Technologies</b>
 
 - 👨‍💻 **Programming Languages:**
 
@@ -100,10 +100,10 @@
 
 <br><br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Github Stats</b>
+## <img src="src/stats.webp" width="35"><b>Github Stats</b>
 
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src="src/snake.svg" alt = "Snake Game"/>
 </p>
 <p align="center"><i>🐍 A Snake Eating my Contributions Graph</i></p>
 
